@@ -1,0 +1,2 @@
+# chemSZA
+personal site 
